@@ -37,8 +37,8 @@
     </tr>
         <tr>
       <td> </td>
-      <td>　</td>
       <td>APPLEを動かす</td>
+      <td>　</td>
     </tr>
         <tr>
       <td> </td>
